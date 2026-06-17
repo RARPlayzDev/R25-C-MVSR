@@ -1,6 +1,6 @@
 # R25-C-MVSR
 
-Complete collection of C programming programs following the R25 Syllabus by MVSR (Malla Reddy College of Engineering).
+Complete collection of C programming programs following the R25 Syllabus by MVSR (Maturi Venkata Subba Rao Engineering College).
 
 ## Overview
 
